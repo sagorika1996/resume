@@ -9,7 +9,7 @@
   description: Pythob based user-driven application that interactively takes webcam input, computes features, uses dimensionality reduction and trains an SVM to learn and predict new gestures as they are added to the application.
 
 #Springfield Donut Eater's User Group
-- project: Taxi service Management System
+- project: Taxi Service Management System
   role: Web Application
   duration: March 2017
   url: "https://github.com/sagorika1996/RnR-Taxi-Service"
