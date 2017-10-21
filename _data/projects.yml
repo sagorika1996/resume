@@ -5,14 +5,14 @@
 - project: Dynamic Gesture Recognition
   role: Python Application
   duration: April 2017
-  #url: "https://github.com/sagorika1996/Dynamic-Gesture-Recognition"
+  url: "https://github.com/sagorika1996/Dynamic-Gesture-Recognition"
   description: Pythob based user-driven application that interactively takes webcam input, computes features, uses dimensionality reduction and trains an SVM to learn and predict new gestures as they are added to the application.
 
 #Springfield Donut Eater's User Group
 - project: Taxi service Management System
   role: Web Application
   duration: March 2017
-  #url: "https://github.com/sagorika1996/RnR-Taxi-Service"
+  url: "https://github.com/sagorika1996/RnR-Taxi-Service"
   description: A web based platform that allows user to book taxi online, developed using PHP, MySQL and Bootstrap. It consists of two interfaces viz. administration interface where the admin can view and update all records, member interface where a member can be either a driver or user.
 
 - project: Book Recommender System
