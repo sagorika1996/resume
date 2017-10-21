@@ -1,18 +1,11 @@
 # Jobs
 - company: Google Bangalore
   position: Software Engineering Intern
-  duration: May &mdash; July 2017
+  duration: May 2017 &mdash; July 2017
   summary:  I was responsible for the design and implementation of Onepick Nextgen Youtube Picker. I improved the existing video picking experience by providing for search query autocomplete, material and responsive UI(mobile webview, sidebar and dialog compatible), simplified API, video previews and play functionality. 
   
 # Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: Netaji Subhbas Institute of Technology
+  position: Researcher
+  duration: January, 2017 &mdash; August 2017
+  summary: I was part of the Computer Engineering Division and worked in the Computer Vision and Image Processing department. The project aims at detecting various formats of tables in document images of different layouts and extraction of the tables' structural and textual contents
